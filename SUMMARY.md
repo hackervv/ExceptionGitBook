@@ -1,5 +1,5 @@
 # Summary
-* [Introduction](README.md)
-* [BinaryTree](BinaryTree/README.md)
-	* [Traversal](BinaryTree/Traversal.md)
+* [前言](README.md)
+* [二叉树](BinaryTree/README.md)
+	* [前中后序遍历](BinaryTree/Traversal.md)
 
