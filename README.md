@@ -1,4 +1,6 @@
 # ExceptionGitBook
 
-##### Coding-lallaal
+##### 
+
+本书以**程序员代码面试指南**为蓝本，总结整理了常见的面试算法与数据结构的题型，并且对应LeetCode上面的题目。代码如果有错误，欢迎在github中提出！
 
