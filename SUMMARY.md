@@ -1,12 +1,12 @@
 # Summary
 * [前言](README.md)
 * [队列和栈](QueueAndStack/README.md)
-	[队列和栈的创建](QueueAndStack/Build/README.md)
-	[LC-155 最小栈](QueueAndStack/Build/LC-155 最小栈.md)
-	[LC-232 用栈实现队列](QueueAndStack/Build/LC-232 用栈实现队列.md)
+	* [队列和栈的创建](QueueAndStack/Build/README.md)
+		* [LC-155 最小栈](QueueAndStack/Build/LC-155 最小栈.md)
+		* [LC-232 用栈实现队列](QueueAndStack/Build/LC-232 用栈实现队列.md)
 * [二叉树](BinaryTree/README.md)
 	* [前中后序遍历](BinaryTree/Traversal/README.md)
 		* [LC-144 二叉树的前序遍历](BinaryTree/Traversal/LC-144 二叉树的前序遍历.md)
-		* [LC-145 二叉树的后序遍历](BinaryTree/Traversal/LC-145 二叉树的后序遍历.md)
 		* [LC-94 二叉树的中序遍历](BinaryTree/Traversal/LC-94 二叉树的中序遍历.md)
+		* [LC-145 二叉树的后序遍历](BinaryTree/Traversal/LC-145 二叉树的后序遍历.md)
 
