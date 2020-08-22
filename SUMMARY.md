@@ -5,6 +5,10 @@
 		* [LC-002 两数相加](LinkedList/TwoLinkedList/LC-002 两数相加.md)
 		* [LC-021 合并两个有序链表](LinkedList/TwoLinkedList/LC-021 合并两个有序链表.md)
 		* [LC-160 相交链表](LinkedList/TwoLinkedList/LC-160 相交链表.md)
+* [数组和矩阵](ArrayAndMatrix/README.md)
+	* [排序问题](ArrayAndMatrix/Sort/README.md)
+		* [快速排序](ArrayAndMatrix/Sort/QuickSort.md)
+		* [归并排序](ArrayAndMatrix/Sort/MergeSort.md)  
 * [队列和栈](QueueAndStack/README.md)
 	* [队列和栈的创建](QueueAndStack/Build/README.md)
 		* [LC-155 最小栈](QueueAndStack/Build/LC-155 最小栈.md)
@@ -16,5 +20,5 @@
 		* [LC-145 二叉树的后序遍历](BinaryTree/Traversal/LC-145 二叉树的后序遍历.md)
 * [递归和动态规划](RecursionAndDP/README.md)
 	* [斐波拉契问题](RecursionAndDP/Fibonacci/README.md)
-		* [斐波拉契数](RecursionAndDP/Fibonacci/LC-509 斐波拉契数.md)
+		* [LC-509 斐波拉契数](RecursionAndDP/Fibonacci/LC-509 斐波拉契数.md)
 
