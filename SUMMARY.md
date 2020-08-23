@@ -18,6 +18,7 @@
 		* [LC-144 二叉树的前序遍历](BinaryTree/Traversal/LC-144 二叉树的前序遍历.md)
 		* [LC-94 二叉树的中序遍历](BinaryTree/Traversal/LC-94 二叉树的中序遍历.md)
 		* [LC-145 二叉树的后序遍历](BinaryTree/Traversal/LC-145 二叉树的后序遍历.md)
+	* [二叉树的特性](BinaryTree/Feature/README.md)
 * [递归和动态规划](RecursionAndDP/README.md)
 	* [斐波拉契问题](RecursionAndDP/Fibonacci/README.md)
 		* [LC-509 斐波拉契数](RecursionAndDP/Fibonacci/LC-509 斐波拉契数.md)
