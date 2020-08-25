@@ -11,6 +11,8 @@
 		* [归并排序](ArrayAndMatrix/Sort/MergeSort.md) 
 	* [双指针问题](ArrayAndMatrix/TwoPoints/README.md) 
 		* [LC-015 三数之和](ArrayAndMatrix/TwoPoints/LC-015 三数之和.md) 
+	* [子数组问题](ArrayAndMatrix/SubArray/README.md)
+		* [剑指offer 连续子数组的最大和](ArrayAndMatrix/SubArray/剑指offer 连续子数组的最大和.md)  
 * [队列和栈](QueueAndStack/README.md)
 	* [队列和栈的创建](QueueAndStack/Build/README.md)
 		* [LC-155 最小栈](QueueAndStack/Build/LC-155 最小栈.md)
