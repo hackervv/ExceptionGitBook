@@ -5,6 +5,7 @@
 		* [LC-002 两数相加](LinkedList/TwoLinkedList/LC-002 两数相加.md)
 		* [LC-021 合并两个有序链表](LinkedList/TwoLinkedList/LC-021 合并两个有序链表.md)
 		* [LC-160 相交链表](LinkedList/TwoLinkedList/LC-160 相交链表.md)
+	* [链表的删除和反转](LinkedList/ReverseAndDel/README.md) 
 * [字符串](String/README.md)
 	* [字符串比较问题](String/Compare/README.md)
 		* [LC-014 最长公共前缀](String/Compare/LC-014 最长公共前缀.md)
