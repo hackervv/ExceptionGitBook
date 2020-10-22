@@ -43,6 +43,8 @@
 		* [LC-111 二叉树的最小深度](BinaryTree/Feature/LC-111 二叉树的最小深度.md)
 		* [LC-226 翻转二叉树](BinaryTree/Feature/LC-226 翻转二叉树.md)
 		* [LC-236 二叉树最近公共祖先](BinaryTree/Feature/LC-236 二叉树最近公共祖先.md)
+	* [二叉搜索树](BinaryTree/BST/README.md) 
+		* [LC-98 验证二叉搜索树](BinaryTree/BST/LC-98 验证二叉搜索树.md) 
 * [递归和动态规划](RecursionAndDP/README.md)
 	* [斐波拉契问题](RecursionAndDP/Fibonacci/README.md)
 		* [LC-509 斐波拉契数](RecursionAndDP/Fibonacci/LC-509 斐波拉契数.md)
