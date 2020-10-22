@@ -9,6 +9,7 @@
 		* [LC-19 删除链表倒数第n个节点](LinkedList/ReverseAndDel/LC-19 删除链表倒数第n个节点.md) 
 		* [LC-24 两两交换链表节点](LinkedList/ReverseAndDel/LC-24 两两交换链表节点.md)
 		* [LC-92 反转链表II](LinkedList/ReverseAndDel/LC-92 反转链表II.md) 
+		* [LC-143 重排链表](LinkedList/ReverseAndDel/LC-143 重排链表.md)
 		* [LC-206 反转链表](LinkedList/ReverseAndDel/LC-206 反转链表.md)
 * [字符串](String/README.md)
 	* [字符串比较问题](String/Compare/README.md)
