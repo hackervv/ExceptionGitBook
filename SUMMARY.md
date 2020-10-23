@@ -11,7 +11,7 @@
 		* [LC-92 反转链表II](LinkedList/ReverseAndDel/LC-92 反转链表II.md) 
 		* [LC-143 重排链表](LinkedList/ReverseAndDel/LC-143 重排链表.md)
 		* [LC-206 反转链表](LinkedList/ReverseAndDel/LC-206 反转链表.md)
-		* [LC-234 回文链表](LinkedList/ReverseAndDek/LC-234 回文链表.md)
+		* [LC-234 回文链表](LinkedList/ReverseAndDel/LC-234 回文链表.md)
 * [字符串](String/README.md)
 	* [字符串比较问题](String/Compare/README.md)
 		* [LC-014 最长公共前缀](String/Compare/LC-014 最长公共前缀.md)
