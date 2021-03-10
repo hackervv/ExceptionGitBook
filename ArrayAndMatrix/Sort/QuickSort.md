@@ -44,9 +44,12 @@ using namespace std;
 const int N = 100010;
 int q[N];
 void quickSort(int q[], int l, int r){
-    if (l >= r) return;
+    // 递归终止条件
+    if (l == r) return;
+    // 确定边界点
     int x = q[(r + l) >> 1], i = l - 1, j = r + 1;
     while(i < j){
+        // 保证边界点左边都比它小，保证边界点右边都比它大。
         do i ++; while(q[i] < x);
         do j --; while(q[i] > x);
         if (i < j) swap(q[i], q[j]);
