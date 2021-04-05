@@ -20,6 +20,7 @@
 	* [字符串转化问题](String/Transform/README.md)
 		* [LC-006 Z字形变换](String/Transform/LC-006 Z字形变换.md) 
 * [数组和矩阵](ArrayAndMatrix/README.md)
+	* [二分查找](ArrayAndMatrix/BinarySearch/README.md) 	
 	* [排序问题](ArrayAndMatrix/Sort/README.md)
 		* [快速排序](ArrayAndMatrix/Sort/QuickSort.md)
 		* [归并排序](ArrayAndMatrix/Sort/MergeSort.md) 
